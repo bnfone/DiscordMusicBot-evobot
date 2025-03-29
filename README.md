@@ -1,3 +1,5 @@
+<!-- Could please someone explain this spaghetti code? -->
+
 <p align="center">
   <img src="/.github/_images/EylDUyX0gcxJI8MusicBotLogo.png" height="90px" />
 </p>
@@ -138,7 +140,7 @@ By using my affiliate link below, **new customers** will receive **€20 in free
 
 👉 [Get €20 Hetzner Cloud Credit](https://hetzner.cloud/?ref=bQjCoKHBYVXI)
 
-💡 With just the smallest Hetzner instance (CX11), you can reliably run EvoMusic 24/7—ideal for communities and music lovers alike.
+💡 With just the smallest Hetzner instance (CX11), you can reliably run EvoMusic 24/7—ideal for communities and music lovers alike (but make sure you rotate your IPv6).
 
 📘 **Tutorial Link _(beginner friendly)_**: (Coming soon – stay tuned!)
 
@@ -160,6 +162,20 @@ As an alternative, we recommend trying our lightweight music bot, [Alastor](http
 You can find more details and usage instructions here: [Alastor on GitHub](https://github.com/EylDUyX0gcxJI8/discord-bot-alastor/pkgs/container/discord-bot-alastor).
 
 Feel free to switch between EvoMusic and Alastor depending on your needs!
+
+
+## 🫣 My Motivation
+
+I started using the original [EvoBot](https://github.com/eritislami/evobot) a few years ago and tried several YouTube music bots along the way. But over time, none of them really met my needs. What I was truly looking for was support for Spotify and Apple Music songs and playlists. Most bots that offered that either stopped working or required payment (and yes, I know—this one also breaks from time to time… sorry about that!).
+
+So I thought: *Why not build my own music bot?* But that felt a bit too exhausting from scratch. Instead, I decided to fork [EvoBot](https://github.com/eritislami/evobot), which already had a great foundation and a modern Discord interface using slash commands.
+
+At the time, I only had basic Python knowledge, so I used AI to help me customize the bot to fit my needs. Along the way, I even learned some JavaScript and TypeScript. In that sense, this project is a little bit [“vibe coded”](https://en.wikipedia.org/wiki/Vibe_coding?ref=evomusic) - check it out, it’s a cool concept!
+
+What I’m trying to say is: if you have a dream (like a cool feature you want in a Discord bot), use the tools around you and just go for it. You might be surprised by what you can build.
+
+Even though AI helped a lot, this project still takes a good amount of time and effort. So if you find it useful or fun, I’d really appreciate it if you could **star the repo** or consider [supporting the project here](#-quickstart--support). ✨
+
 
 ---
 
