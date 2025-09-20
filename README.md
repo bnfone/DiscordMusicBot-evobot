@@ -8,6 +8,20 @@
 
 > This is a fork of the original [EvoBot](https://github.com/eritislami/evobot), a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide). This version includes enhancements and additional features to improve user experience and functionality.
 
+
+> [!CAUTION]
+> **⚠️ This bot is no longer actively developed _(tbh, it never really was lol)_.**
+>
+> YouTube keeps making it harder (and sometimes impossible) to use their videos in music bots.  
+> As a result, most Discord music bots (including this one) are increasingly unstable or non-functional 
+>
+> Feel free to patch things up yourself, or summon the mighty powers of ChatGPT to breathe some life back into it.  
+>
+> **Alternatives (aka bots that might actually work):**
+> - [rustyrave](https://github.com/EylDUyX0gcxJI8/rustyrave-bot) – an experimental attempt at reinventing the Discord music bot wheel  
+> - [Alastor – The Radio Daemon](https://github.com/EylDUyX0gcxJI8/alastor-bot) – my radio-style bot that streams from public web radios (no YouTube headaches 🎶)  
+> - [FlaviBot](https://flavibot.xyz) – not affiliated or sponsored, but currently seems to be a more reliable full-featured music bot
+
 [![Publish Docker Image](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/actions/workflows/publish-docker.yml/badge.svg)](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/actions/workflows/publish-docker.yml)
 
 
