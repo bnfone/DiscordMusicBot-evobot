@@ -1,6 +1,6 @@
 services:
   discord_music_bot:
-    image: ghcr.io/EylDUyX0gcxJI8/discord-bot-evomusic:latest
+    image: ghcr.io/introvertdevs/evomusic-bot:latest
     container_name: discord_music_bot
     networks:
       - discordbot_evomusic

@@ -67,7 +67,7 @@ The advertisement configurations are stored in a JSON file located at `data/adve
       {
         "label": "Star on GitHub",
         "style": "LINK",
-        "url": "https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic"
+        "url": "https://github.com/introvertdevs/evomusic-bot"
       },
       {
         "label": "Donate",

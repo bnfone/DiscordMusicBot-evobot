@@ -22,7 +22,7 @@
 > - [Alastor – The Radio Daemon](https://github.com/EylDUyX0gcxJI8/alastor-bot) – my radio-style bot that streams from public web radios (no YouTube headaches 🎶)  
 > - [FlaviBot](https://flavibot.xyz) – not affiliated or sponsored, but currently seems to be a more reliable full-featured music bot
 
-[![Publish Docker Image](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/actions/workflows/publish-docker.yml/badge.svg)](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/actions/workflows/publish-docker.yml)
+[![Publish Docker Image](https://github.com/introvertdevs/evomusic-bot/actions/workflows/publish-docker.yml/badge.svg)](https://github.com/introvertdevs/evomusic-bot/actions/workflows/publish-docker.yml)
 
 
 ## 🌟 Quickstart & Support
@@ -74,7 +74,7 @@ For a **live demo** (please note: uptime is not 100%!), check out my [Discord Se
 ## 🛠️ Getting Started
 
 ```sh
-git clone https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic
+git clone https://github.com/introvertdevs/evomusic-bot
 cd discord-bot-evomusic
 npm install
 ```
@@ -119,7 +119,7 @@ docker run -d \
   --env LOCALE=en \
   --env PIPED_API_URL=https://pipedapi.example.com \
   --env PIPED_FALLBACK=true \
-  ghcr.io/EylDUyX0gcxJI8/discord-bot-evomusic:latest
+  ghcr.io/introvertdevs/evomusic-bot:latest
 ```
 
 Alternatively, use the provided docker-compose.yml for a simplified setup.
@@ -129,7 +129,7 @@ Alternatively, use the provided docker-compose.yml for a simplified setup.
 ```yml
 services:
   discord_music_bot:
-    image: ghcr.io/EylDUyX0gcxJI8/discord-bot-evomusic:latest
+    image: ghcr.io/introvertdevs/evomusic-bot:latest
     container_name: discord_music_bot
     environment:
       - TOKEN=your_discord_bot_token
@@ -159,8 +159,8 @@ By using my affiliate link below, **new customers** will receive **€20 in free
 📘 **Tutorial Link _(beginner friendly)_**: (Coming soon – stay tuned!)
 
 ## 😬 Reporting Issues and Feature Requests
-- **Feature Requests**: Please submit feature requests as a GitHub issue via our [feature request template](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/issues/new?assignees=&labels=feature&template=---feature-request.md&title=).
-- **Bug Reports**: Found an error? Report bugs as GitHub issues with clear reproduction steps via our [bug report template](https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/issues/new?assignees=&labels=feature&template=---bug-report.md&title=).
+- **Feature Requests**: Please submit feature requests as a GitHub issue via our [feature request template](https://github.com/introvertdevs/evomusic-bot/issues/new?assignees=&labels=feature&template=---feature-request.md&title=).
+- **Bug Reports**: Found an error? Report bugs as GitHub issues with clear reproduction steps via our [bug report template](https://github.com/introvertdevs/evomusic-bot/issues/new?assignees=&labels=feature&template=---bug-report.md&title=).
 
 Your feedback is vital to improve EvoMusic!
 

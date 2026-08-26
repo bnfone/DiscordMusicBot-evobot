@@ -2,7 +2,7 @@ import { CommandInteraction, ButtonStyle, ActionRowBuilder, ButtonBuilder, Embed
 import { error as logError } from "./logger";
 
 // Set your GitHub issue reporting URL here
-const GITHUB_ISSUE_URL = "https://github.com/EylDUyX0gcxJI8/discord-bot-evomusic/issues/new?assignees=&labels=feature&template=---bug-report.md&title=";
+const GITHUB_ISSUE_URL = "https://github.com/introvertdevs/evomusic-bot/issues/new?assignees=&labels=feature&template=---bug-report.md&title=";
 
 /**
  * Handles errors by logging the full error and notifying the Discord user.
